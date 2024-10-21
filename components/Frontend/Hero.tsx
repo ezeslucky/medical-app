@@ -18,7 +18,7 @@ const Hero = () => {
          <span >Book your</span>     <TransionText TEXTS ={TEXTS} classname=" text-green-500"/>    <span >sessions now</span> 
                 </h1>
                 <p className="mb-8 max-w-[480px] text-base text-body-color dark:text-dark-6">
-                Helth shouldn't be a puzzle, we are cutting through the B.S
+                Helth should not be a puzzle, we are cutting through the B.S
                   to bring you simple, affordable, and transparent helthcard.
                 </p>
                 <SearchBar/>
