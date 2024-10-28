@@ -7,7 +7,7 @@ import { Pill } from "lucide-react";
 const Hero = () => {
     const TEXTS = ['Acupuncture', 'Message' , 'Chiropractor', 'Dental', 'Cosmetic', 'Dietitian', 'Speech Therapist']
   return (
-    <>
+    <div className=" ">
      
       <div className="relative bg-white pb-[110px] pt-[50px] dark:bg-dark lg:pt-[50px] max-w-6xl mx-auto">
         <div className="container">
@@ -108,7 +108,7 @@ const Hero = () => {
           </div>
         </div>
       </div>
-    </>
+    </div>
   );
 };
 

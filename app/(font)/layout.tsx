@@ -7,9 +7,12 @@ function Layout({children}:{children:ReactNode}) {
   return (
  
 
-    <div className=' '>
+    <div className='  '>
+      
       <Navbar/>
-        <div className=" max-w-5xl   mx-auto py-3 font-bold">
+    
+      
+        <div className=" max-w-5xl left-10   mx-auto py-3 font-bold  top-20 w-full">
           <Menu/>
         </div>
         
